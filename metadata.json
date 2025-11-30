@@ -1,0 +1,7 @@
+{
+  "name": "TownPlate",
+  "description": "TownPlate is an ultra-modern, futuristic platform for delivering food, groceries, medicines, and daily essentials, as well as providing home services. It offers a seamless, fast, and reliable user experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
